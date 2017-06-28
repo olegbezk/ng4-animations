@@ -21,7 +21,7 @@ component only with template and style files.
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-Use `--aot` with `--prod` flag for build with ahead of time project compilation.
+Use `--aot` with `--prod` flag to build with ahead of time project compilation.
 
 ## Running unit tests
 
