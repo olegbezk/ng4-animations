@@ -14,7 +14,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
 
-Use `--spec false` flag to prevent test class creation. For example: `ng g c new --spec false`
+Use `--spec false` flag to prevent test class creation. For example: `ng g c new --spec false` - generated new component
+
+only with template and style files.
 
 ## Build
 
